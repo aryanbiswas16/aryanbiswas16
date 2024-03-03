@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aryan</h1>
 <h3 align="center">A passionate university student looking to get into the world of Software Development</h3>
-<p align="right"><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGx4dnY3Zzg5YXl5bmk4aWgzb21nemU2ZnhlZ2ViNzc3dzZ5MmUwbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" /> </p>
+<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGx4dnY3Zzg5YXl5bmk4aWgzb21nemU2ZnhlZ2ViNzc3dzZ5MmUwbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" /> </img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryanbiswas16&label=Profile%20views&color=0e75b6&style=flat" alt="aryanbiswas16" /> </p>
 
